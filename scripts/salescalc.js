@@ -16,3 +16,5 @@ function calculateSales() {
     spTotal.innerHTML=Total.toFixed(2)
 }
 
+function foo() {
+}
