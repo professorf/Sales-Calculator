@@ -1,5 +1,6 @@
 addEventListener("load", main)
 
+// Entry point after all code is loaded
 function main() {
     btCalcSales.addEventListener("click", calculateSales)
 }
