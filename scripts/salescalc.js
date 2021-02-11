@@ -12,7 +12,7 @@ function calculateSales() {
 // processing
     Tax=Price*TaxRate
     Total=Price+Tax
-// output
+// output 
     spTotal.innerHTML=Total.toFixed(2)
 }
 
